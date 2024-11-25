@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @0cnblvd
-- 👀 I’m interested in fashion 
+- 👋 Hi, I’m Humawan Ilham Marzuki
+- 👀 I’m interested in Architectural Design
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on code study
 - 📫 How to reach me @hilmrzk@gmail.com
